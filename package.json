@@ -1,0 +1,16 @@
+{
+  "name": "mongoosenodecheckpoint",
+  "version": "1.0.0",
+  "description": "Mongoose checkpoint",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yass",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.6.2",
+    "mongoose": "^8.4.0"
+  }
+}
